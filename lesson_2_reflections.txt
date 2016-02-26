@@ -15,6 +15,13 @@ Q: How can you use the staging area to make sure you have one commit per logical
 A: You can move only the files pertinent to the logical change to the staging area in order to be committed subsequently.
 
 
+
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 A: Branches are helpful in various situations, like when we would like to create a new experimental feature for our project or create a new language version of the project. Branches allow us to make (experimental) changes to our project's code while still allowing us to develop the main project following the existing schedule.
+
+
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: The diagrams help with clarifying when new branches were created off the master branch and help us indentify what the initial commit for each branch was.
