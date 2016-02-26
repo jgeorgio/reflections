@@ -1,0 +1,48 @@
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+A: I used the fc function via Window's CMD prompt. The fc function provides us with two or three lines of both the old and new txt files 
+where changes have been made. Changes are not necessarily on all of these 2-3 lines, but are instead used to provide some relative context 
+as to where the changes were made.
+
+
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+A: Having access to the entire history of a file as a programmer is great way to learn from past mistakes or logic used to create functions/methods/classes etc. 
+
+Also having access to the entire history of a file, you have the ability to see how the program/application and its features grew throughout its timeline.
+
+
+
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+A: The pros are that we can save our changes when we have completed writing code that has its own independent logic and from a programming language standpoint has correct grammar and synxtax.
+
+The cons are that as humans, we make mistakes, and might forget to save our changes or on the contrary commit too often.
+
+
+
+Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit. while others, like Google Docs, treat each file separately?
+
+A: I believe this is related to what each version control system was designed for and what the main purpose it serves is.  
+
+
+
+Q: How can you use the commands git log and git diff to view the history of files?
+
+A: You can use the command "git log" to view all repository commits and then compare two of them by using the command "git diff commit_id_1 commit_id_2". Also the command "git log --stat" give an overview of the insertions and deletions of all commits in the repository.
+
+
+
+Q: How might using version control make you more confident to make changes that could break something?
+
+A: It would build my confidence knowing that even if I do make a mistake in my current commit that breaks the program's functionality, I would still be able to locate the problem and rectify it in a timely manner without having to write my code from scratch. 
+
+
+
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+
+A: I would like to start using Git for my Web Development (HTML, CSS and Javascript), Coding (Python, ServiceNow) and Data Analysis (R) projects.
+
+
+
