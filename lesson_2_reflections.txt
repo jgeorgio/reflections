@@ -31,3 +31,9 @@ A: The diagrams help with clarifying when new branches were created off the mast
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 A: The result is all commits get merged into one branch and are sorted based on their timestamp. We can then delete the redundant (secondary) branch's label that got merged. It is represented in the diagram in a way that it shows that all commits that belonged to the merged branches are now accessible by the single new branch (usually the master branch).
+
+
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: Automatic merging speeds things up but can cause confusion and application compiling or bug problems.
