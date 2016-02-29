@@ -1,0 +1,5 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?
+
+A: Most likely in the scenario where more then one person is collaborating on a specific project. Also, from a risk management and redundancy perspective, I would prefer to have a backup copy of my git project on the cloud.
+
+
