@@ -8,3 +8,8 @@ Q: Why might you want to always pull changes manually rather than having Git aut
 A: When working on a project with other collaborators, automatically pulling remotes to my local repository can lead to undesired results when developing. Manual pulling allows us to review the changes on the remote first before we decide we want to pull them.
 
 
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A: The difference between forks and clones is that the former are closely tied to GitHub servers. You can have a repository clone between a GitHub server and local machine or even just on the local machine. Branches on the other hand are found within a repository and are made up of commits.
+
+
