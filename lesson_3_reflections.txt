@@ -3,3 +3,8 @@ Q: When would you want to use a remote repository rather than keeping all your w
 A: Most likely in the scenario where more then one person is collaborating on a specific project. Also, from a risk management and redundancy perspective, I would prefer to have a backup copy of my git project on the cloud.
 
 
+Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+A: When working on a project with other collaborators, automatically pulling remotes to my local repository can lead to undesired results when developing. Manual pulling allows us to review the changes on the remote first before we decide we want to pull them.
+
+
