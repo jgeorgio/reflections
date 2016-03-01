@@ -13,3 +13,8 @@ Q: Describe the differences between forks, clones, and branches. When would you 
 A: The difference between forks and clones is that the former are closely tied to GitHub servers. You can have a repository clone between a GitHub server and local machine or even just on the local machine. Branches on the other hand are found within a repository and are made up of commits.
 
 
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A: One of the benefits are if we're planning to work offline, this would allow us to view the most recent changes that were made to the project by other collaborators (if any). Second, having a recent copy of the remote branch(es) helps us with viewing all collaborator changes without us having to merge the changes to our local copy branches.
+
+ 
